@@ -1,0 +1,214 @@
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\ApplicationInsights.config
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\csc.exe
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\csc.exe.config
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\csc.rsp
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\csi.exe
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\csi.exe.config
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\csi.rsp
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.AppContext.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Console.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\vbc.exe
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\vbc.exe.config
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\vbc.rsp
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\ytuportal.web.dll.config
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\ytuportal.web.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\ytuportal.web.pdb
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Antlr3.Runtime.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Facebook.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.Web.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Newtonsoft.Json.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Net.Http.Formatting.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Helpers.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Http.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Http.WebHost.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Mvc.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Optimization.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Razor.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\WebGrease.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Antlr3.Runtime.pdb
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Facebook.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.Web.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Newtonsoft.Json.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Optimization.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Razor.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Helpers.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Mvc.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Net.Http.Formatting.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Http.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\System.Web.Http.WebHost.xml
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.pdb
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.csprojResolveAssemblyReference.cache
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\DotNetZip.dll
+C:\Users\Berk Algül\Documents\Visual Studio 2017\Projects\ytuportal.web\ytuportal.web\bin\DotNetZip.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\ApplicationInsights.config
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\csc.exe
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\csc.exe.config
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\csc.rsp
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\csi.exe
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\csi.exe.config
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\csi.rsp
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.AppContext.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Console.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.Compression.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Claims.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.ValueTuple.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\vbc.exe
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\vbc.exe.config
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\vbc.rsp
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\ytuportal.web.dll.config
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\ytuportal.web.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\ytuportal.web.pdb
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Antlr3.Runtime.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\DotNetZip.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Facebook.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.Web.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Newtonsoft.Json.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Net.Http.Formatting.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Helpers.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Http.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Http.WebHost.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Mvc.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Optimization.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Razor.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Razor.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\WebGrease.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Antlr3.Runtime.pdb
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\DotNetZip.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Facebook.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.Web.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Newtonsoft.Json.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Optimization.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Razor.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Webpages.Razor.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Helpers.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Mvc.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Net.Http.Formatting.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Http.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\bin\System.Web.Http.WebHost.xml
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.csproj.CopyComplete
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.dll
+C:\Users\berka\Desktop\MacbookDocBackup\MacbookDocBackup\YazilimProjeleri\ytuportal.web\ytuportal.web\obj\Debug\ytuportal.web.pdb
